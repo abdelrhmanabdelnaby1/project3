@@ -1,0 +1,26 @@
+* {padding: 0;
+margin: 0;
+box-sizing: border-box; }
+.form-control{margin-left: 450px;}
+.navbar{ opacity: 0.8;
+position: fixed;
+top: 0;
+left: 0;
+z-index: 1;}
+
+ .navbar-brand{ border-right: 2px solid gray;
+margin-left: 20px; 
+}
+.navbar-brand:hover{ text-shadow: 5px 5px 15px rgb(250, 247, 247) ;}
+.tittle-sec3{ color: blue;}
+.fixedimg1{ 
+background-image: url(../images/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.jpg)
+}
+.fixedimg{
+    background-attachment: fixed;
+    background-size: cover;
+    height: 200px;
+}
+.fixedimg2{ 
+    background-image:url(../images/david-schultz-SrewPUfo2c0-unsplash.jpg)
+    }
